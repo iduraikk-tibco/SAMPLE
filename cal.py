@@ -6,3 +6,4 @@ def celsius_to_fahrenheit(celsius):
 temp_c = 25
 temp_f = celsius_to_fahrenheit(temp_c)
 print(f"{temp_c}°C is equal to {temp_f}°F")
+print("New_car")
